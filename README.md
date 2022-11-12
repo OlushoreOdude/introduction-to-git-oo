@@ -49,7 +49,7 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: Assign yourself as a reviewer</h2></summary>
+<summary><h2>Step 1: Assign yourself as a reviewer</h2><p>try to add up-to-date and different ways to address the problem</p></summary>
 
 _Welcome to "Review pull requests"! :wave:_
 
